@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shickey/GoldShoes/issues"
   },
-  "homepage": "https://github.com/shickey/GoldShoes"
+  "homepage": "https://github.com/shickey/GoldShoes",
+  "dependencies": {
+    "express": "^4.4.1"
+  }
 }
