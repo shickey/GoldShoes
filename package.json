@@ -1,0 +1,19 @@
+{
+  "name": "goldshoes",
+  "version": "0.0.0",
+  "description": "Gold shoes. Need we say more?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shickey/GoldShoes.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shickey/GoldShoes/issues"
+  },
+  "homepage": "https://github.com/shickey/GoldShoes"
+}
